@@ -10,10 +10,13 @@
 }
 
 body {
-    background-image: url(bo.jpeg) ;
+    background-image: url(fundo.jpg) ;
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
+    background-repeat: no-repeat;
+    background-size: 2500px 1080px;
+    image-resolution: 3840px 2160px;
 
 }
 
